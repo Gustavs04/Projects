@@ -1,4 +1,4 @@
-# hello-world
+# AI projects
 Just another repository
 
 Hi humans!
